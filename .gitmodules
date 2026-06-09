@@ -5,3 +5,6 @@
 [submodule "mgwrsar"]
 	path = mgwrsar
 	url = https://github.com/cran/mgwrsar
+[submodule "spboost"]
+	path = spboost
+	url = https://github.com/cran/spboost
